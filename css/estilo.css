@@ -1,0 +1,61 @@
+li {
+  list-style-type: none;
+  display: inline;
+}
+
+footer {
+  text-align: center;
+  margin-top: 30px;
+  margin-right: 0px;
+  margin-bottom: 10px;
+  margin-left: 0px;
+  background-color: lightseagreen;
+  height: 100px;
+  font-size: 30px;
+  font-family: "Barlow", sans-serif;
+}
+
+footer a {
+  color: black;
+  margin-top: 30px;
+  margin-right: 80px;
+  margin-bottom: 0px;
+  margin-left: 80px;
+  position: relative;
+  top: 25px;
+}
+
+.container-fluid {
+  padding: 0px;
+  margin: 0px;
+}
+
+.navbar-light .navbar-nav .nav-link {
+  color: white;
+  font-family: "Barlow", sans-serif;
+  font-size: 20px;
+}
+
+.navbar-light .navbar-brand {
+  font-family: "Barlow", sans-serif;
+  font-size: 30px;
+}
+
+.contenido {
+  margin-top: 10px;
+  margin-right: 0px;
+  margin-bottom: 10px;
+  margin-left: 0px;
+}
+
+.texto {
+  font-family: "Barlow", sans-serif;
+  font-size: 30px;
+  display: relative;
+  top: 60px;
+  left: 100px;
+}
+
+h1 {
+  font-size: 40px;
+}
